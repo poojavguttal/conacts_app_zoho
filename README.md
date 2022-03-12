@@ -2,7 +2,9 @@
 # steps for running the contacts app
 I have used php and xammp server as backend and html5 and css for frontend
 
-I have attached the file called contacts app_zoho it is a main code file and sql file
+I have attached the file called contacts app_zoho it is a main code file and sql(contact_app) file
+
+extract the contacts app_zoho zip file.
 
 First start the xammp server and then place the contacts app_zoho file in htdocs folder of xammp
 
